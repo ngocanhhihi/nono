@@ -1,0 +1,30 @@
+.nav{
+    background-color:black;
+    display: flex;
+ 
+}
+.html{
+    scroll-behavior: smooth;
+}
+.nav-item{
+    color:white;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav-item:hover{
+    background-color: white;
+    color:black;
+}
+.about{
+    text-align: center;
+}
+.image{
+    max-width: 85%;
+    padding-left: 120px;
+}
+#member{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
